@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = levno.ro@gmail.com
+	name = Noam Lev
